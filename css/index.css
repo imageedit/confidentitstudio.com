@@ -1,7 +1,7 @@
 body{margin:0; padding:0;background-color:#F5F5F5;}
 
 .header{height:50px;width:100%; background:#3383F5; }
-.font{font-size:bold; color:#fff; margin-left:95px; font-weight:center; margin-top:10px;}
+.font{font-size:bold; color:#fff; margin-left:95px; font-weight:center; margin-top:5px;}
 .font a{text-decoration:none;color:#ffffff;}
 .font i{margin-left:10px;margin-top:15px; margin-right:10px;}
 .header_text {margin-top:15px;}
@@ -14,9 +14,11 @@ body{margin:0; padding:0;background-color:#F5F5F5;}
   border-radius: 5px;
 }
 
+.mid_container{height:0 auto; width:1350px; margin:0 auto;}
+
 .logo{z-index:1000px; display:block;}
 /* Dropdown Button */
-.menu{margin-left:80px;z-index:600;}
+.menu{z-index:600;}
 
 #nav {
 list-style:none inside;
@@ -137,12 +139,9 @@ h1{ font-size:35px;color:#FF687D; margin-bottom:25px;}
 #area_price ul li p { margin-top:5px;border-bottom:1px dotted; }
 
 .footer{width:100%; height:100px; background-color:#10729B;}
-.footer h4{color:grey; font-size:16px; margin-top:33px; margin-left:500px; float:left; color:#D8FFED;}
+.footer h4{ font-size:16px;   color:#21D6CF; margin-top:40px;}
 .footer a{text-decoration:none; color:#ffffff; }
 .footer a:hover{text-decoration:underline;}
-.paypal{height:100px; margin-left:50px; }
-.img_cis{margin-top:-129px; height:100px;margin-left:150px; }
-
 
 /* clippintpath area start */
 .clipping_middiv3{width:100%;  background-color:#DCDCDC; margin-right:50px;}
